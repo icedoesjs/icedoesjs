@@ -1,3 +1,4 @@
+[![devondiscord](https://img.shields.io/badge/TEAM-DEVING%20ON%20DISCORD-%23738ADB?style=for-the-badge&logo=discord)](https://xendev.us)
 <h1 align="center">Welcome, I am IceyyM8</h1>
 <p align="center"><i>I specialize in Javascript, C# and LUA.</i></p>
 
@@ -5,7 +6,6 @@
 [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-energy-drinks.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
-[![devondiscord](https://img.shields.io/badge/TEAM-DEVING%20ON%20DISCORD-%23738ADB?style=for-the-badge&logo=discord)](https://xendev.us)
 
 # My `Notable` Projects
 - [Socket](https://discord.boats/bot/786481811681181738)

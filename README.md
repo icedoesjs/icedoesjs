@@ -1,6 +1,12 @@
 <h1 align="center">Welcome, I am IceyyM8</h1>
 <p align="center"><i>I specialize in Javascript, C# and LUA.</i></p>
 
+![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iceyym8?tab=followers)
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.xendev.us)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/iceyym8/)
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
+[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
+
 # My `Notable` Projects
 - [Socket](https://discord.boats/bot/786481811681181738)
 - [Ice-FiveM](https://github.com/iceyym8/Ice-Fivem-js)
@@ -21,3 +27,4 @@
 
 # Statistics 
 ![dd](https://github-readme-stats-eight-theta.vercel.app/api?username=Jordan2139&show_icons=true&theme=react&include_all_commits=true&count_private)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=iceyym8&theme=blue-green)

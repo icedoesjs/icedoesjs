@@ -2,7 +2,7 @@
 <h1 align="center">Welcome, I am IceyyM8</h1>
 <p align="center"><i>I specialize in Javascript, C# and LUA.</i></p>
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-energy-drinks.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coders-sweat.svg)](https://forthebadge.com)
 
 
 

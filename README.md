@@ -15,6 +15,14 @@
 - [Vehicle HUD](https://github.com/iceyym8/Vehicle-Hud)
 - [Troll Guard V2](https://coming-soon.com)
 
+# Languages
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)<br></br>
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)<br></br>
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)<br></br>
+[![forthebadge](https://forthebadge.com/images/badges/made-with-rust.svg)](https://forthebadge.com)<br></br>
+[![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com)<br></br>
+* There's no lua one :(
+
 # My Discords
 [![Xen](https://discordapp.com/api/guilds/589528220601286678/widget.png?style=banner4)](https://discord.gg/8JHtRPm5)
 [![IceyyM8.Dev](https://discordapp.com/api/guilds/732611511121477683/widget.png?style=banner4)](https://discord.gg/xTkA6pa)

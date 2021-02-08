@@ -1,5 +1,5 @@
 
-<h1 align="center">Welcome, I am IceyyM8</h1>  [![devondiscord](https://img.shields.io/badge/TEAM-DEVING%20ON%20DISCORD-%23738ADB?style=for-the-badge&logo=discord)](https://xendev.us)
+<h1 align="center">Welcome, I am IceyyM8</h1>
 <p align="center"><i>I specialize in Javascript, C# and LUA.</i></p>
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/iceyym8/)
@@ -16,6 +16,7 @@
 # My Discords
 [![Xen](https://discordapp.com/api/guilds/589528220601286678/widget.png?style=banner4)](https://discord.gg/8JHtRPm5)
 [![IceyyM8.Dev](https://discordapp.com/api/guilds/732611511121477683/widget.png?style=banner4)](https://discord.gg/xTkA6pa)
+[![devondiscord](https://img.shields.io/badge/TEAM-DEVING%20ON%20DISCORD-%23738ADB?style=for-the-badge&logo=discord)](https://xendev.us)
 
 # Contact Me
 [![y](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/389558396195438593)

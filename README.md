@@ -1,8 +1,5 @@
 
-<h1 align="center">Welcome, I am IceyyM8</h1>
-<p align="center">
- [![devondiscord](https://img.shields.io/badge/TEAM-DEVING%20ON%20DISCORD-%23738ADB?style=for-the-badge&logo=discord)](https://xendev.us)
-</p>
+<h1 align="center">Welcome, I am IceyyM8</h1>  [![devondiscord](https://img.shields.io/badge/TEAM-DEVING%20ON%20DISCORD-%23738ADB?style=for-the-badge&logo=discord)](https://xendev.us)
 <p align="center"><i>I specialize in Javascript, C# and LUA.</i></p>
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/iceyym8/)

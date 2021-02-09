@@ -7,7 +7,8 @@
 
 
 # My `Notable` Projects
-- [Socket](https://discord.boats/bot/786481811681181738)
+- [Socket](https://github.com/iceyym8/socket)
+- [Public Launcher](https://github.com/iceyym8/Public-Launcher/)
 - [Ice-FiveM](https://github.com/iceyym8/Ice-Fivem-js)
 - [Vehicle HUD](https://github.com/iceyym8/Vehicle-Hud)
 - [Troll Guard V2](https://coming-soon.com)

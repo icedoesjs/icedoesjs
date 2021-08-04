@@ -22,8 +22,7 @@
 * There's no lua one :(
 
 # My Discords
-[![Xen](https://discordapp.com/api/guilds/589528220601286678/widget.png?style=banner4)](https://discord.gg/8JHtRPm5)
-[![IceyyM8.Dev](https://discordapp.com/api/guilds/732611511121477683/widget.png?style=banner4)](https://discord.gg/xTkA6pa)
+[![IceyyM8.Dev](https://discordapp.com/api/guilds/867806168897945630/widget.png?style=banner4)](https://discord.gg/YJKc58GfGP)
 
 # Contact Me
 [![y](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/389558396195438593)

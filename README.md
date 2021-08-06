@@ -11,7 +11,7 @@
 - [discord.js-utilitys](https://www.npmjs.com/package/discord.js-utilitys)
 
 # My Discords
-[![IceyyM8.Dev]](https://discordapp.com/api/guilds/867806168897945630/widget.png?style=banner4)](https://discord.gg/YJKc58GfGP)
+[![IceyyM8.Dev](https://discord.com/widget?id=867806168897945630&theme=dark)](https://discord.gg/YJKc58GfGP)
 
 # Contact Me
 [![y](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/389558396195438593)

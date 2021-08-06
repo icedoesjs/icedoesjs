@@ -10,19 +10,11 @@
 - [Socket](https://github.com/iceyym8/socket)
 - [Public Launcher](https://github.com/iceyym8/Public-Launcher/)
 - [Ice-FiveM](https://github.com/iceyym8/Ice-Fivem-js)
-- [Vehicle HUD](https://github.com/iceyym8/Vehicle-Hud)
-- [Troll Guard V2](https://coming-soon.com)
-
-# Languages
-[![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)](https://forthebadge.com)<br></br>
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)<br></br>
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)<br></br>
-[![forthebadge](https://forthebadge.com/images/badges/made-with-rust.svg)](https://forthebadge.com)<br></br>
-[![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://forthebadge.com)<br></br>
-* There's no lua one :(
+- [disjs-logger](https://www.npmjs.com/package/disjs-logger)
+- [discord.js-utilitys](https://www.npmjs.com/package/discord.js-utilitys)
 
 # My Discords
-[![IceyyM8.Dev](https://discordapp.com/api/guilds/867806168897945630/widget.png?style=banner4)](https://discord.gg/YJKc58GfGP)
+[IceyyM8.Dev](https://discordapp.com/api/guilds/867806168897945630/widget.png?style=banner4)](https://discord.gg/YJKc58GfGP)
 
 # Contact Me
 [![y](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/389558396195438593)

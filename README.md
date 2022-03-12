@@ -19,7 +19,7 @@
 
 ### Other 
 - Buy me GFUEL: https://paypal.me/iceyym8
-- Grade: 11
+- Grade: 12
 
 # Statistics 
 ![dd](https://github-readme-stats-eight-theta.vercel.app/api?username=Jordan2139&show_icons=true&theme=react&include_all_commits=true&count_private)

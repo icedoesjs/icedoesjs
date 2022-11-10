@@ -17,11 +17,11 @@
 
 # Statistics 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=icedoesjs&show_icons=true&theme=transparent" alt="My stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=icedoesjs&show_icons=true&theme=transparent&layout=compact](https://github-readme-stats.vercel.app/api?username=icedoesjs&show_icons=true&theme=transparent" alt="My stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&layout=compact&theme=transparent" alt="My stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&theme=transparent&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&layout=compact&theme=transparent" alt="My stats"/>
 </p>
 
 

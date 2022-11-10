@@ -14,9 +14,10 @@
   <img src="https://discordapp.com/api/guilds/867806168897945630/widget.png?style=banner4" alt="My discord"/>
 </p>
 
+
 # Statistics 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icedoesjs&show_icons=true&theme=radical&layout=compact](https://github-readme-stats.vercel.app/api?username=icedoesjs&show_icons=true&theme=transparent" alt="My stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=icedoesjs&show_icons=true&theme=radical" alt="My stats"/>
 </p>
 
 <p align="center">

@@ -8,17 +8,17 @@
 
 
 <h1 align="center">My notable projects</h1>
-<p align="center"><a href="https://github.com/iceyym8/socket">• Socket</a></p>
-<p align="center"><a href="https://github.com/iceyym8/Public-Launcher/">• Public Launcher</a></p>
-<p align="center"><a href="https://www.npmjs.com/package/disjs-logger">• DisJS-Logger</a></p>
+<p align="center" style="color: black; text-decoration: underline;text-decoration-style: dotted;"><a href="https://github.com/iceyym8/socket">• Socket</a></p>
+<p align="center" style="color: black; text-decoration: underline;text-decoration-style: dotted;"><a href="https://github.com/iceyym8/Public-Launcher/">• Public Launcher</a></p>
+<p align="center" style="color: black; text-decoration: underline;text-decoration-style: dotted;"><a href="https://www.npmjs.com/package/disjs-logger">• DisJS-Logger</a></p>
 
-# My Discords
+<h1 align="center">My Discord</h1>
 <p align="center">
   <img src="https://discordapp.com/api/guilds/867806168897945630/widget.png?style=banner4" alt="My discord"/>
 </p>
 
 
-# Statistics 
+<h1 align="center">Statistics</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=icedoesjs&show_icons=true&theme=transparent" alt="My stats"/>
 </p>

@@ -1,3 +1,10 @@
+<style>
+  a {
+    text-decoration: none;
+    color: white;
+  }
+</style>
+
 
 <h1 align="center">Welcome, I am Jordan</h1>
 <h4 align="center">I currently am studying software engineering at Coding Temple</h4>
@@ -6,10 +13,10 @@
 
 
 <h1 align="center">My notable projects</h1>
+https://github.com/iceyym8/Public-Launcher/
 <p align="center"><a href="https://github.com/iceyym8/socket">• Socket</a></p>
-- [Public Launcher](https://github.com/iceyym8/Public-Launcher/)
-- [Ice-FiveM](https://github.com/iceyym8/Ice-Fivem-js)
-- [disjs-logger](https://www.npmjs.com/package/disjs-logger)
+<p align="center"><a href="https://github.com/iceyym8/Public-Launcher/">• Public Launcher</a></p>
+<p align="center"><a href="https://www.npmjs.com/package/disjs-logger">• DisJS-Logger</a></p>
 
 # My Discords
 <p align="center">
@@ -25,6 +32,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&layout=compact&theme=transparent" alt="My stats"/>
 </p>
-
 
 

@@ -1,6 +1,6 @@
 
 <h1 align="center">Welcome, I am Jordan</h1>
-<h2 align="center">I currently am studying software engineering at Coding Temple</h2>
+<h4 align="center">I currently am studying software engineering at Coding Temple</h4>
 <p align="center"><i>I specialize in Javascript, C# and Python.</i></p>
 
 

@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&theme=radical&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&layout=compact&theme=transparent" alt="My stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&layout=compact&theme=transparent" alt="My stats"/>
 </p>
 
 

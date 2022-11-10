@@ -8,9 +8,9 @@
 
 
 <h1 align="center">My notable projects</h1>
-<p align="center" style="color: black; text-decoration: underline;text-decoration-style: dotted;"><a href="https://github.com/iceyym8/socket">• Socket</a></p>
-<p align="center" style="color: black; text-decoration: underline;text-decoration-style: dotted;"><a href="https://github.com/iceyym8/Public-Launcher/">• Public Launcher</a></p>
-<p align="center" style="color: black; text-decoration: underline;text-decoration-style: dotted;"><a href="https://www.npmjs.com/package/disjs-logger">• DisJS-Logger</a></p>
+<p align="center"><a style="color: black; text-decoration: underline;text-decoration-style: dotted;" href="https://github.com/iceyym8/socket">• Socket</a></p>
+<p align="center"><a style="color: black; text-decoration: underline;text-decoration-style: dotted;" href="https://github.com/iceyym8/Public-Launcher/">• Public Launcher</a></p>
+<p align="center"><a style="color: black; text-decoration: underline;text-decoration-style: dotted;" href="https://www.npmjs.com/package/disjs-logger">• DisJS-Logger</a></p>
 
 <h1 align="center">My Discord</h1>
 <p align="center">

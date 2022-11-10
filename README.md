@@ -5,8 +5,8 @@
 
 
 
-# My `Notable` Projects
-- [Socket](https://github.com/iceyym8/socket)
+<h1 align="center">My notable projects</h1>
+<a align="center" href="https://github.com/iceyym8/socket">- Socket</a>
 - [Public Launcher](https://github.com/iceyym8/Public-Launcher/)
 - [Ice-FiveM](https://github.com/iceyym8/Ice-Fivem-js)
 - [disjs-logger](https://www.npmjs.com/package/disjs-logger)

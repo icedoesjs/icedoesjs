@@ -6,7 +6,7 @@
 
 
 <h1 align="center">My notable projects</h1>
-<a align="center" href="https://github.com/iceyym8/socket">- Socket</a>
+<p align="center"><a href="https://github.com/iceyym8/socket">• Socket</a></p>
 - [Public Launcher](https://github.com/iceyym8/Public-Launcher/)
 - [Ice-FiveM](https://github.com/iceyym8/Ice-Fivem-js)
 - [disjs-logger](https://www.npmjs.com/package/disjs-logger)

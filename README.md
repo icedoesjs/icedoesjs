@@ -17,7 +17,7 @@
 
 # Statistics 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icedoesjs&show_icons=true&theme=radical" alt="My stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=icedoesjs&show_icons=true&theme=transparent" alt="My stats"/>
 </p>
 
 <p align="center">

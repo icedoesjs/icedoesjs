@@ -18,7 +18,7 @@
 [![y](https://img.shields.io/badge/-IceyyM8\__-1769FF?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/follow/iceyyledev)
 
 # Statistics 
-![dd](https://github-readme-stats-eight-theta.vercel.app/api?username=Jordan2139&show_icons=true&theme=react&include_all_commits=true&count_private)
+![IceDoesJS GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&theme=blue-green)
 
 

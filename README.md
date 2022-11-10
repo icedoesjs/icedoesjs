@@ -10,18 +10,17 @@
 - [disjs-logger](https://www.npmjs.com/package/disjs-logger)
 
 # My Discords
-[![IceyyM8.Dev](https://discord.com/widget?id=867806168897945630&theme=dark)](https://discord.gg/YJKc58GfGP)
-
-# Contact Me
-[![y](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/389558396195438593)
+<p align="center">
+  <img src="https://discordapp.com/api/guilds/867806168897945630/widget.png?style=banner4" alt="My discord"/>
+</p>
 
 # Statistics 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icedoesjs&show_icons=true&theme=transparent&layout=compact](https://github-readme-stats.vercel.app/api?username=icedoesjs&show_icons=true&theme=transparent" alt="My stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=icedoesjs&show_icons=true&theme=radical&layout=compact](https://github-readme-stats.vercel.app/api?username=icedoesjs&show_icons=true&theme=transparent" alt="My stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&theme=transparent&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&layout=compact&theme=transparent" alt="My stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&theme=radical&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&layout=compact&theme=transparent" alt="My stats"/>
 </p>
 
 

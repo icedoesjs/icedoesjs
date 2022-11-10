@@ -1,9 +1,4 @@
-<style>
-  a {
-    text-decoration: none;
-    color: white;
-  }
-</style>
+
 
 
 <h1 align="center">Welcome, I am Jordan</h1>
@@ -13,7 +8,6 @@
 
 
 <h1 align="center">My notable projects</h1>
-https://github.com/iceyym8/Public-Launcher/
 <p align="center"><a href="https://github.com/iceyym8/socket">• Socket</a></p>
 <p align="center"><a href="https://github.com/iceyym8/Public-Launcher/">• Public Launcher</a></p>
 <p align="center"><a href="https://www.npmjs.com/package/disjs-logger">• DisJS-Logger</a></p>

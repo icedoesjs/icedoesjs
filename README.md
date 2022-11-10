@@ -22,4 +22,3 @@
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=iceyym8&theme=blue-green)
 
 
-[![devondiscord](https://img.shields.io/badge/TEAM-DEVING%20ON%20DISCORD-%23738ADB?style=for-the-badge&logo=discord)](https://xendev.us)

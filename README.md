@@ -8,17 +8,15 @@
 - [Public Launcher](https://github.com/iceyym8/Public-Launcher/)
 - [Ice-FiveM](https://github.com/iceyym8/Ice-Fivem-js)
 - [disjs-logger](https://www.npmjs.com/package/disjs-logger)
-- [discord.js-utilitys](https://www.npmjs.com/package/discord.js-utilitys)
 
 # My Discords
 [![IceyyM8.Dev](https://discord.com/widget?id=867806168897945630&theme=dark)](https://discord.gg/YJKc58GfGP)
 
 # Contact Me
 [![y](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/389558396195438593)
-[![y](https://img.shields.io/badge/-IceyyM8\__-1769FF?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/follow/iceyyledev)
 
 # Statistics 
-![IceDoesJS GitHub stats](https://github-readme-stats.vercel.app/api?username=icedoesjs&show_icons=true&theme=radical)
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&theme=blue-green)
+![IceDoesJS GitHub stats](https://github-readme-stats.vercel.app/api?username=icedoesjs&show_icons=true&theme=transparent)
+![IceDoesJS Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&layout=compact&theme=transparent)]
 
 

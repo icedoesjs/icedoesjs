@@ -10,7 +10,7 @@
 <h1 align="center">My notable projects</h1>
 <p align="center"><a href="https://github.com/icedoesjs/socket"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/icedoesjs/socket.png" width="460px"></a></p>
 <p align="center"><a href="https://github.com/icedoesjs/Public-Launcher"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/icedoesjs/Public-Launcher.png" width="460px"></a></p>
-<p align="center"><a href="https://github.com/icedoesjs/disjs-logger"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/icedoesjs/disjs-logger.png" width="460px"></a>></p>
+<p align="center"><a href="https://github.com/icedoesjs/disjs-logger"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/icedoesjs/disjs-logger.png" width="460px"></a></p>
 
 <h1 align="center">My Discord</h1>
 <p align="center">

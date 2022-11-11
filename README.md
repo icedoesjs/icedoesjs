@@ -8,7 +8,7 @@
 
 
 <h1 align="center">My notable projects</h1>
-<p align="center"><a style="color: black; text-decoration: underline;text-decoration-style: dotted;" href="https://github.com/iceyym8/socket">• Socket</a></p>
+<p align="center"><a href="https://github.com/icedoesjs/socket"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/icedoesjs/socket.png" width="460px"></a></p>
 <p align="center"><a style="color: black; text-decoration: underline;text-decoration-style: dotted;" href="https://github.com/iceyym8/Public-Launcher/">• Public Launcher</a></p>
 <p align="center"><a style="color: black; text-decoration: underline;text-decoration-style: dotted;" href="https://www.npmjs.com/package/disjs-logger">• DisJS-Logger</a></p>
 

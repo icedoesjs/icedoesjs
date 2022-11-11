@@ -20,11 +20,11 @@
 
 <h1 align="center">Statistics</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icedoesjs&show_icons=true&theme=transparent" alt="My stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=icedoesjs&show_icons=true&theme=cobalt" alt="My stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&layout=compact&theme=transparent" alt="My stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&layout=compact&theme=cobalt" alt="My stats"/>
 </p>
 
 

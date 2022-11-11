@@ -27,4 +27,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&layout=compact&theme=cobalt" alt="My stats"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=icedoesjs&theme=cobalt&hide_border=true" alt="My stats"/>
+</p>
+
 

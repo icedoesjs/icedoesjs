@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&layout=compact%langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&layout=compact&theme=cobalt" alt="My stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs%langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&layout=compact&theme=cobalt" alt="My stats"/>
 </p>
 
 <p align="center">

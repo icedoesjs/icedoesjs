@@ -22,12 +22,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&langs_count=8&theme=cobalt&layout=compact" alt="My stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=icedoesjs&theme=cobalt" alt="My stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=icedoesjs" alt="My stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&langs_count=8&theme=cobalt&layout=compact" alt="My stats"/>
 </p>
+
+
 
 
 

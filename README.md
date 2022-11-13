@@ -18,10 +18,6 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=icedoesjs&theme=transparent&hide_border=true" alt="My stats"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=icedoesjs&theme=transparent&hide_border=true" alt="My stats"/>
 </p>
 

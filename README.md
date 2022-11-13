@@ -14,7 +14,7 @@
 
 <h1 align="center">Statistics</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icedoesjs&show_icons=true&theme=cobalt" alt="My stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=icedoesjs&show_icons=true&theme=cobalt&hide_border=true" alt="My stats"/>
 </p>
 
 <p align="center">
@@ -22,11 +22,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=icedoesjs&theme=cobalt" alt="My stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=icedoesjs&theme=cobalt&hide_border=true" alt="My stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&langs_count=8&theme=cobalt&layout=compact" alt="My stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&langs_count=8&theme=cobalt&layout=compact&hide_border=true" alt="My stats"/>
 </p>
 
 

@@ -31,4 +31,7 @@
   <img src="https://streak-stats.demolab.com?user=icedoesjs&theme=cobalt&hide_border=true" alt="My stats"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=icedoesjs" alt="My stats"/>
+</p>
 

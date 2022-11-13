@@ -12,12 +12,6 @@
 <p align="center"><a href="https://github.com/icedoesjs/Public-Launcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=icedoesjs&repo=Public-Launcher&theme=cobalt" width="460px"></a></p>
 <p align="center"><a href="https://github.com/icedoesjs/disjs-logger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=icedoesjs&repo=disjs-logger&theme=cobalt" width="460px"></a></p>
 
-<h1 align="center">My Discord</h1>
-<p align="center">
-  <img src="https://discordapp.com/api/guilds/867806168897945630/widget.png?style=banner4" alt="My discord"/>
-</p>
-
-
 <h1 align="center">Statistics</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=icedoesjs&show_icons=true&theme=cobalt" alt="My stats"/>

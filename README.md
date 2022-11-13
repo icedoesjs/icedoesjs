@@ -8,9 +8,9 @@
 
 
 <h1 align="center">My notable projects</h1>
-<p align="center"><a href="https://github.com/icedoesjs/socket"><img src="https://github-readme-stats.vercel.app/api/pin/?username=icedoesjs&repo=socket" width="460px"></a></p>
-<p align="center"><a href="https://github.com/icedoesjs/Public-Launcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=icedoesjs&repo=Public-Launcher" width="460px"></a></p>
-<p align="center"><a href="https://github.com/icedoesjs/disjs-logger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=icedoesjs&repo=disjs-logger" width="460px"></a></p>
+<p align="center"><a href="https://github.com/icedoesjs/socket"><img src="https://github-readme-stats.vercel.app/api/pin/?username=icedoesjs&repo=socket&theme=cobalt" width="460px"></a></p>
+<p align="center"><a href="https://github.com/icedoesjs/Public-Launcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=icedoesjs&repo=Public-Launcher&theme=cobalt" width="460px"></a></p>
+<p align="center"><a href="https://github.com/icedoesjs/disjs-logger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=icedoesjs&repo=disjs-logger&theme=cobalt" width="460px"></a></p>
 
 <h1 align="center">My Discord</h1>
 <p align="center">

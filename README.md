@@ -18,6 +18,10 @@
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=icedoesjs&theme=cobalt&hide_border=true" alt="My stats"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&layout=compact%langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&layout=compact&theme=cobalt" alt="My stats"/>
 </p>
 
@@ -25,9 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=icedoesjs" alt="My stats"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=icedoesjs&theme=cobalt&hide_border=true" alt="My stats"/>
-</p>
+
 
 
 

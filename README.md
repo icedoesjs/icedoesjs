@@ -14,7 +14,7 @@
 
 <h1 align="center">Statistics</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icedoesjs&show_icons=true&theme=cobalt&hide_border=true" alt="My stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=icedoesjs&show_icons=true&theme=transparent&hide_border=true" alt="My stats"/>
 </p>
 
 <p align="center">

@@ -8,8 +8,8 @@
 
 
 <h1 align="center">My notable projects</h1>
-<p><a href="https://github.com/icedoesjs/socket"><img src="https://github-readme-stats.vercel.app/api/pin/?username=icedoesjs&repo=socket&theme=transparent" width="460px"></a></p>
-<p><a href="https://github.com/icedoesjs/Public-Launcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=icedoesjs&repo=Public-Launcher&theme=transparent" width="460px"></a></p>
+<p><a href="https://github.com/icedoesjs/socket"><img src="https://github-readme-stats.vercel.app/api/pin/?username=icedoesjs&repo=socket&theme=transparent" width="300px"></a></p>
+<p><a href="https://github.com/icedoesjs/Public-Launcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=icedoesjs&repo=Public-Launcher&theme=transparent" width="300px"></a></p>
 <p><a href="https://github.com/icedoesjs/disjs-logger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=icedoesjs&repo=disjs-logger&theme=transparent" width="460px"></a></p>
 
 <h1 align="center">Statistics</h1>

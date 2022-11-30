@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs%hide=jupyter%20notebook&langs_count=8&theme=transparent&layout=compact" alt="My stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icedoesjs&hide=jupyter%20notebook&langs_count=8&theme=transparent&layout=compact" alt="My stats"/>
 </p>
 
 

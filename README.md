@@ -3,8 +3,8 @@
 
 <h1 align="center">Welcome, I am Jordan</h1>
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=icedoesjs&style=for-the-badge&color=grey"></p>
-<h4 align="center">I currently am studying software engineering at Coding Temple</h4>
-<p align="center"><i>I know a handful of languages but I mainly write Javascript, Python and HTML (technically not a language)</i></p>
+<p align="center"><i>I know a handful of languages but I mainly write Javascript (Sometimes TS), Python and HTML/CSS</i></p>
+<p align="center"><i>My favorite frameworks are NextJS, React, Flask, Django, NodeJS and I am learning Astro</i></p>
 
 
 
